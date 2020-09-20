@@ -1,0 +1,22 @@
+{
+  "name": "nx-monorepo-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webdriver-update": "webdriver-manager update --no-gecko --no-standalone"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ftischler/nx-monorepo-ci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ftischler/nx-monorepo-ci/issues"
+  },
+  "homepage": "https://github.com/ftischler/nx-monorepo-ci#readme",
+  "devDependencies": {
+    "webdriver-manager": "12.1.7"
+  }
+}
